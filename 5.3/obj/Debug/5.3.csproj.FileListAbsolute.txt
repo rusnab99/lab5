@@ -1,0 +1,12 @@
+C:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\5.3\obj\Debug\5.3.csprojResolveAssemblyReference.cache
+C:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\5.3\bin\Debug\5.3.exe.config
+C:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\5.3\bin\Debug\5.3.exe
+C:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\5.3\bin\Debug\5.3.pdb
+C:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\5.3\obj\Debug\5.3.exe
+C:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\5.3\obj\Debug\5.3.pdb
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\5.3\obj\Debug\5.3.csprojResolveAssemblyReference.cache
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\5.3\obj\Debug\5.3.exe
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\5.3\obj\Debug\5.3.pdb
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\5.3\bin\Debug\5.3.exe.config
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\5.3\bin\Debug\5.3.exe
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\5.3\bin\Debug\5.3.pdb

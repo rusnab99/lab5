@@ -1,0 +1,12 @@
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\ConsoleApp1\obj\Debug\3.1.csprojResolveAssemblyReference.cache
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\1.2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\ConsoleApp1\obj\Debug\3.1.csprojResolveAssemblyReference.cache
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Lab5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
